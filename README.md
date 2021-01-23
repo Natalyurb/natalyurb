@@ -1,6 +1,6 @@
 ### Hi,I'm Nataly! 👋
 
-Hi,I'm Natalu Urbina from Peru, currently,I'm an Industrial Engineer. I'm studying web development in Laboratoria.
+Hi,I'm Nataly Urbina from Peru, currently,I'm an Industrial Engineer. I'm studying web development in Laboratoria.
 I'm 25 years old.
 #Talking about Personal Stuffs:
 - Learning Html,Js,Css;
